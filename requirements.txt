@@ -1,0 +1,6 @@
+Flask
+kubernetes
+Werkzeug
+pytest
+pylint
+pytest-cov
